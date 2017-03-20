@@ -12,7 +12,7 @@ import android.widget.ListView;
  * Created by meruguabhishek on 2017-03-19.
  */
 
-public class ScalableListView  extends ListView {
+public class ScalableListView  extends GridView  {
     private static final int INVALID_POINTER_ID = -1;
     private int mActivePointerId = INVALID_POINTER_ID;
     private ScaleGestureDetector mScaleDetector;
