@@ -64,6 +64,10 @@ public class MainActivity extends AppCompatActivity implements ScalableListView.
         items.add(new ListItem("Psych","NoodleCake",R.drawable.psy));
         items.add(new ListItem("Angry Birds","Iyo mam.Inc",R.drawable.angry));
         items.add(new ListItem("Aoe","Age of Empires",R.drawable.aoe));
+        items.add(new ListItem("Temple Run","Shek Studio",R.drawable.temple));
+        items.add(new ListItem("Adda 52","PokerWorld.Inc",R.drawable.adda));
+        items.add(new ListItem("ZigZag","Ketchapp" ,R.drawable.zig));
+        items.add(new ListItem("Psych","NoodleCake",R.drawable.psy));
 
     }
 
